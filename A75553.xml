@@ -1,0 +1,723 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Marquess of Argile his answer to his charge sent unto him in the Castle of Edinburgh, the 28. of January.</title>
+            <author>Argyll, Archibald Campbell, Marquis of, 1598-1661.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75553</idno>
+            <idno type="STC">Wing A3650</idno>
+            <idno type="STC">Thomason E1083_4</idno>
+            <idno type="STC">ESTC R203035</idno>
+            <idno type="EEBO-CITATION">99863132</idno>
+            <idno type="PROQUEST">99863132</idno>
+            <idno type="VID">115314</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75553)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115314)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 161:E1083[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Marquess of Argile his answer to his charge sent unto him in the Castle of Edinburgh, the 28. of January.</title>
+                  <author>Argyll, Archibald Campbell, Marquis of, 1598-1661.</author>
+               </titleStmt>
+               <extent>[2], 6, 9-16 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year, 1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Text is continuous despite pagination.</note>
+                  <note>Annotation on Thomason copy: "feb. 27".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Argyll, Archibald Campbell, --  Marquis of, 1598-1661 --  Early works to 1800.</term>
+               <term>England and Wales. --  Sovereign (1603-1625 : Charles II). --  Early works to 1800.</term>
+               <term>Treason --  England --  Early works to 1800.</term>
+               <term>Trials (Treason) --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-03</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115314:1" rendition="simple:additions"/>
+            <p>THE
+Marqueſs of Argile
+HIS
+ANSWER
+TO HIS
+CHARGE
+Sent unto Him in the
+<hi>CASTLE of EDINB<g ref="char:V">Ʋ</g>RGH,</hi>
+The 28. of <hi>January.</hi>
+            </p>
+            <p>Printed in the Year, 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div n="libel" type="answer">
+            <pb facs="tcp:115314:2"/>
+            <pb n="1" facs="tcp:115314:2"/>
+            <head>A Preface to ſome generall things con<g ref="char:EOLhyphen"/>cerning
+this LIBEL.</head>
+            <p>I. IT may appear to any to be framed meerly out of malice,
+becauſe it takes in all things (either alledged, ſpoken,
+or done) ſince the year of God, 1638. notwithſtanding
+his Majeſties Royal Fathers, and his own acts of Oblivion and
+Approbation.</p>
+            <p>II. Becauſe it does not ſo much as alledge any reaſon or mo<g ref="char:EOLhyphen"/>tive
+for any thing hath been done, nor any end why, or to
+which any did drive, and ſo making any man who was inga<g ref="char:EOLhyphen"/>ged
+more malicious then the Devil, and more unreaſonable
+then brute Beaſts.</p>
+            <p>III. It repeats all that hath been done by Kirk or Kingdom,
+to be the Marquiſs of <hi>Argyles</hi> deeds, though he neither was at
+the beginning of the buſineſs, nor very many of the particu<g ref="char:EOLhyphen"/>lars
+mentioned, as the narration of his carriage can ſhew, he
+ſhew both the reaſons and ends of his doing all he did, being
+meerly for Religion, King and Kingdom, according to the Co<g ref="char:EOLhyphen"/>venant,
+never preſſing any thing earneſtly, but for the Cove<g ref="char:EOLhyphen"/>nant,
+nor oppoſing, but when it was refuſed.</p>
+            <p>1. Mr. <hi>Jobn Stewarts</hi> Proceſs will clear much of the falſhood
+of this point; for though ſuch a diſcourſe had been, it was but
+narratively of a debate, which was before the fitting of the
+Parliament, 1640. Wherein Mr. <hi>Alexander Henderſon</hi> uſed
+thoſe very words, though nothing to his Majeſties diſadvantage,
+and whether I related that debate, no mans memory can be
+charged with ſuch a thing, after ſo long a time, and a clear
+Act of Oblivion of his Majeſties Royal Father 1641.</p>
+            <p>2. This is a great miſtake, when the Defender came to the
+houſe of <hi>Airly, Montroſs</hi> had put a garriſon in it for the uſe of
+the Country, and when I come there with the Countreys Or<g ref="char:EOLhyphen"/>der,
+<hi>Sibbald</hi> who was in it, upon ſight of my Commiſſion did
+preſently leave it; and the Earl of <hi>Airlies</hi> own friends knows,
+except what Buſhes were cut for Hutting to Souldiers, I had no
+uſe to cut the Planting; and my ſtay there a few days was,
+<pb n="2" facs="tcp:115314:3"/>
+expecting the Lord <hi>Ogilby,</hi> whoſe Friends were gone to him for
+that purpoſe, and the ſlighting of the houſe was then a favour,
+his order being more ſtrict, and I believe his Friends or Te<g ref="char:EOLhyphen"/>nants
+had no loſs to my knowledge: As for burning the houſe
+further in <hi>Glenyla,</hi> the Defend<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r knew nothing of it at all,
+until ſome days after it was done; and howſoever, it was in<g ref="char:EOLhyphen"/>cluded
+in the Act of Oblivion, 1641.</p>
+            <p>3. Some men indeed, named under my Command, lay at
+<hi>Dumbartan</hi> by order of Committee and Parliament, whereby
+that Garriſon was loth to come abroad, and ſo many of them
+fell ſick; whereupon Sir <hi>John Henderſon</hi> ſent for me, that I
+might come to the Caſtle and receive it from him upon hono<g ref="char:EOLhyphen"/>rable
+terms, which I did, and ſuffered him to make his own Ar<g ref="char:EOLhyphen"/>ticles,
+for matter of honour: And I tran<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ported none of the
+Canon, but when his Majeſty was in <hi>Scotland,</hi> 1641. the Duke
+of <hi>Richmond</hi> did give the Defender two Canon, this is known
+to many; this buſineſs is likewiſe before the Act of Oblivi<g ref="char:EOLhyphen"/>on,
+1641.</p>
+            <p>4. This is anſwered formerly, there is added a promiſe of
+mine, which needed not been mentioned, for I acknowledge
+my many obligations to his Majeſty as ſtrong as that promiſe
+could make it: And it were to wrong his Majeſty, to ſay he
+deſired any promiſe to take away that, which his Majeſty com<g ref="char:EOLhyphen"/>mends
+ſo much in the large Treaty, <hi>Scotlands</hi> deſire of Unity
+in Religion and Uniformity in Church-Government, as a ſpe<g ref="char:EOLhyphen"/>cial
+means for conſerving of peace betwixt the two Kingdoms;
+neither did <hi>Scotland</hi> at all joyn with any Army in <hi>England</hi> in
+League and Covenant, but with the two Houſes of Parlia<g ref="char:EOLhyphen"/>ment.</p>
+            <p>5. I neither did burn, nor give Order to burn the houſe of
+<hi>Menſtre,</hi> though I had great provocations to it, the day before
+<hi>Menſtre</hi> was burnt, the whole houſes of two Pariſhes, whereof
+I was only Superior was burnt, and many poor Families put to
+extream neceſſity by it: And a Son of the Earl of <hi>Sterling,</hi>
+who had <hi>Menſtre</hi> in poſſeſſion, by compriſing did concur with
+the actors of ſo cruel a fact, to poor people that were not
+wronging them at all; himſelf and his father before him, not
+only holding the ſame of me, but in effect without money:
+and my Father gave them the Land; and when many years
+<pb n="3" facs="tcp:115314:3"/>
+few duties had run on, I my ſelf diſcharged that Lady of the ſame,
+amounting to a conſiderable ſumm; ſo far do I abhor to be un<g ref="char:EOLhyphen"/>grate,
+though I have often met with ſuch dealing; howſoever the
+30. Act, 1647. for liberating the good ſubjects from the purſuit
+and actions of the Rebels Civil or Criminal would ſuffice.</p>
+            <p>6. This is anſwered formerly and it is a moſt unjuſt calumny.</p>
+            <p>7. There are three or four things in this article, 1. <hi>Concerning
+the men in</hi> Loathhead <hi>and</hi> Dunavarty. 2. <hi>An old man begging his
+ſons life denied. 3. Sending 200 men from</hi> Yla <hi>to ſterve in</hi> Jura. 4 <hi>The
+carrying of Col.</hi> Mc. Gilleſpie <hi>from</hi> Lieth <hi>rode, being brought there
+by order of Committee of Parliament.</hi> To theſe I deſire it may be
+known, that in <hi>May</hi> or <hi>June</hi> 1646. his Majeſty ſent orders to <hi>Alex<g ref="char:EOLhyphen"/>ander
+Mac Donald</hi> and all under him, to lay down Arms; of the
+which number theſe men in <hi>Kintyre</hi> were a part, who continued
+in arms contrary to his Majeſties order. Next, I deſire it may be
+known, they were lying under engagements not to have joyned
+with <hi>Alexander Mac Donald,</hi> notwithſtanding all which they were
+in arms fighting againſt <hi>David Lefly</hi> and his party; yea, after <hi>Alex<g ref="char:EOLhyphen"/>ander</hi>
+was beaten they refuſed to come to him, when other
+Countreymen did; and went to the houſe of <hi>Lochhead</hi> and <hi>Duna<g ref="char:EOLhyphen"/>barty,</hi>
+out of which <hi>David Leſlie</hi> took them without any capitula<g ref="char:EOLhyphen"/>tion,
+and diſpoſed of them as the Council of Warre thought fit,
+which the Defendare cannot be charged with. For the ſecond, of
+the old mans requeſt for his Son, he never heard of any ſuch thing
+before he ſaw this Libel, ſo he conceives it to be a fiction; and juſt
+ſo of the third, for the Defendare was never in <hi>Yla</hi> nor <hi>Jura,</hi> but
+with <hi>David Leſly,</hi> and he does not remember any colour for ſuch a
+diſcourſe. For the 4th. of Col. <hi>Kittacks</hi> bringing to <hi>Leith</hi> Road by
+order of either Committee or Parliament, is a meer fiction, he was ta<g ref="char:EOLhyphen"/>ken
+priſoner in <hi>Yla,</hi> by the party under <hi>David Leſly,</hi> and delivered
+to me; and I put him aboard of Captain <hi>Browns</hi> ſhip, who under<g ref="char:EOLhyphen"/>took
+to deliver him at <hi>Dunſtaffage,</hi> but Captain <hi>Brown</hi> not being
+willing to loſe the opportunity of a fair wind, did not go to <hi>Dun<g ref="char:EOLhyphen"/>ſtaſſage,</hi>
+but went ſtreight to <hi>Leith</hi> Road, and immediately gave
+me notice, he had my priſoner aboard, whom I received from him
+and ſent to <hi>Dunſtaſſage;</hi> Captain <hi>Brown</hi> I think lives at <hi>Weymes,</hi>
+               <pb n="4" facs="tcp:115314:4"/>
+who can declare this. One thing I ſhall add in general, that I thank
+the Lord by his grace helping me, I never took any mans life, but
+what was done in conflict or by order of Law for notorious crimes
+according to ſtanding acts of Parliament.</p>
+            <p>8. It is well known I was in <hi>Ireland</hi> by Commiſſion for the get<g ref="char:EOLhyphen"/>ting
+aſſiſtance of the Scots Army againſt thoſe in arms in <hi>Scotland</hi>
+when his Majeſty come to the Army before <hi>Newark,</hi> ſo that his
+Majeſties Declarations anent his Majeſties gracious intention and
+reſolution in coming to the Scots Army, was ſent both to the Com<g ref="char:EOLhyphen"/>mittee
+of Eſtates of <hi>Scotland,</hi> and to the two Houſes of the Parlia<g ref="char:EOLhyphen"/>ment
+of <hi>England</hi> before I come to <hi>Newcaſtle</hi> his Majeſties Decla<g ref="char:EOLhyphen"/>rations
+were all recorded in the Committee Books, and Printed,
+that his Majeſty come not with any intention to continue that un<g ref="char:EOLhyphen"/>natural
+Warr any longer, or to make any diviſion betwixt the
+Kingdoms, but to comply with his Parliaments, and theſe intruſted
+by him in every thing for ſetling Truth and Peace: And that he
+would apply himſelf totally to the Councils and advices of his Par<g ref="char:EOLhyphen"/>liaments,
+upon which the Committee of the Parliament of <hi>Scot<g ref="char:EOLhyphen"/>land,</hi>
+and the General Officers of the <hi>Scots</hi> Army declared to his
+Majeſty himſelf, and the two Houſes of the Parliament of <hi>England</hi>
+their receiving his Majeſty was upon theſe terms: All this was
+done before the Defender come to <hi>Newcaſtle,</hi> after his Majeſties
+coming there to the <hi>Scots</hi> army: In this article theſe whom his
+Royal Majeſty who then was, and his gracious Majeſty who now is,
+calls his Parliaments, are called a Factious party, and the Defen<g ref="char:EOLhyphen"/>der
+the Ring-leader. It is ſaid in this article, that I went to <hi>London,</hi>
+but omits to tell, by his Majeſties &amp; Commiſſioners order at <hi>New<g ref="char:EOLhyphen"/>caſtle</hi>
+as one of the Commiſſioners; and only carried Inſtructions
+to the reſt of the Commiſſioners at <hi>London,</hi> for haſtning the Pro<g ref="char:EOLhyphen"/>poſitions:
+And likewiſe from his Majeſty was commanded to take
+the advice of the Duke of <hi>Richmond</hi> and Marquiſs of <hi>Hartford</hi> a<g ref="char:EOLhyphen"/>nent
+what might concern his Majeſty; and particularly, if it was
+adviſeable that the Scots Army ſhould declare for his Majeſty,
+wherein they told me, and conjured me to tell it to his Majeſty,
+that it was the only way at preſent inevitably to ruine his Ma<g ref="char:EOLhyphen"/>jeſty,
+and deſired me to ſhew it to his Majeſty in theſe terms<g ref="char:punc">▪</g> that
+himſelf knew, neither the Nobility nor Gentry of <hi>England,</hi> who
+<pb n="5" facs="tcp:115314:4"/>
+attended his Majeſty at <hi>Oxford,</hi> deſired him altogether to prevail
+over his Parliament by his Sword, much leſs would they in<g ref="char:EOLhyphen"/>dure
+the Scots Army to do it, that would make all <hi>England</hi> as
+one man againſt his Majeſty. Therefore deſired his Majeſty might
+by any means give way to the Propoſitions, no other being left,
+which could be of advantage to his Majeſty; this very advice he
+delivered to his Majeſty at <hi>Newcaſtle,</hi> and told the ſame to his Ma<g ref="char:EOLhyphen"/>jeſty,
+who now is, when he was in <hi>Scotland,</hi> and intreated the
+Lieutenant of the Tower of <hi>London,</hi> to propoſe for me that the
+Marquiſs of <hi>Hartford</hi> then living might be examined in this, but
+he put it off from time to time, becauſe of other great affairs in
+hand. It muſt likewiſe here be remembred that at that time the
+two Houſes of the Parliament of <hi>England</hi> was ſitting fully and
+freely, and neither Independant nor Sectaries were able to carry
+one vote in the houſes: And that the Houſes declared fully their
+reſolution for maintenance of his Majeſties perſon and authority;
+and ſuch of them who attended his Majeſty moſt, were moſt for
+the disbanding of the Scots Army, and his Majeſties ſtaying in
+<hi>England.</hi> Next obſerve this Article, that it is a great miſtake
+that any thing done at <hi>London,</hi> concerning leaving the King in
+<hi>England,</hi> when the Defendare was at <hi>London,</hi> that alledgeance
+of a Diſcourſe of mine in the Committee of both Kingdoms muſt
+be likewiſe forged; for as is ſaid there was nothing moved at that
+time concerning his Majeſties perſon, but meerly for the Army,
+and what concerned their ſatisfaction; ſo that I think the Army,
+at leaſt to my knowledge, emitted no ſuch Declaration. And
+though they had done it, I may ſay, I was never at any of their
+Conſultations, let them anſwer for their own deeds. And to
+what the Parliament did, no man was ever yet made anſwer for
+ſuch things, eſpecially where the lawfull King hath approved the
+Parliament as a lawfull Parliament: no ſucceeding <hi>King</hi> will ever
+queſtion his Predeceſſors acts, much leſs can a <hi>King</hi> in honour
+queſtion any man for acting in a Parliament, which himſelf hath
+approved. And of ſuch nature are the moſt part in this Libel;
+yea all of them except words before 1651. ſo I may ſay without
+offence, it were more for his Majeſties honour and this Kingdom
+to think on a Declaration vindicating the Parliament of <hi>Scotland</hi>
+from ſuch acts, then ſo unjuſtly to lay ſuch foul things on them,
+and call them a factious party.</p>
+            <p>
+               <pb n="6" facs="tcp:115314:5"/>
+9. It is to be obſerved, that the meeting of Parliament, 1648.
+is called the Eſtates of Parliament, met by his Majeſties ſpecial
+authority, and it was ſo indeed, being one of the Seſſions of Par<g ref="char:EOLhyphen"/>liament,
+1644. And in the firſt place there is a great miſtake; for
+no propoſition was made after the Vote of Parliament, the Pro<g ref="char:EOLhyphen"/>teſtation
+it ſelf will clear this as is ſaid in the former Libel. I did
+not come to wait upon the Committee of Eſtates after <hi>Preſton,</hi> but
+being called, and of neceſſity conſidering the times; neither went
+I unſent to <hi>Mordington,</hi> neither did the Invader <hi>Cromwel</hi> bring
+his Army into <hi>Scotland,</hi> only that he reſolving to propoſe ſome
+things to the Committee, which the Books will clear he brought a
+ſmall party with him to <hi>Lothian,</hi> and the ſtopping him from bring<g ref="char:EOLhyphen"/>ing
+in his army, and that he did not require pledges and the
+Strengths of the Kingdom, was thought a mercy at that time
+both to thoſe who returned out of <hi>England,</hi> and all the Nation,
+the Margine doubtleſs in one branch is miſtaken, at leaſt as to me,
+no man can ſay he heard me; and neither his ſayings nor doings
+was juſtifiable; for the truth is, he declared always he would not
+remove untill he had <hi>Berwick;</hi> and the Informers may imagine
+that was in my power, and he did remove: and when that was
+done, what Inſtructions were ſent to, or with Sir <hi>John Cheefly</hi>
+were neither of my Dyting or Writing.</p>
+            <p>10. Being well known how active and inſtrumentall the
+Defendare was in every thing concerning his Majeſties Reſti<g ref="char:EOLhyphen"/>tution
+to his Crowns and Royall authority, this Clauſe or
+Article is purpoſely for ſoyling his faithfull Service, but his
+Majeſty both knows and hath acknowledged the contrary of
+this by Word and Write. And for what concerns the Mar<g ref="char:EOLhyphen"/>quiſs
+of <hi>Montroſſe</hi> his death, I neither Conſulted nor Voted in
+the manner nor matter of it, though it was done in Par<g ref="char:EOLhyphen"/>liament.
+The next point in this Article is correſponding with
+<hi>Cromwell</hi> after his Majeſty come to <hi>Scotland,</hi> which is moſt
+falſe; the like was ſaid and recanted by <hi>Hamilton,</hi> who was a Spy,
+and ſo was hanged at <hi>Sterling.</hi>
+            </p>
+            <p>
+               <pb n="9" facs="tcp:115314:5"/>
+For any Declaration at the <hi>Weſt-kirk,</hi> I had no hand in it by
+word writ nor meſſage, but on the contrary I did deal with
+ſome Miniſters who came from the Commiſſion of the <hi>Kirk,</hi> to
+forbear preſſing of his Majeſty; and where ſome of his Majeſties
+Bed-chamber deſired that I might deal with his Majeſty to
+ſign it, I told them I could not well preſſe the King to a thing
+he ſaid was ſo contrary to his Conſcience, ſeeing it reflected
+as he thought on his Royal Father; but to ſpeak to the King
+I would not refuſe, and if the King had done for a deſire, I
+know no crime in it.</p>
+            <p>11. There are ſome things in this note in the former Libel,
+as joyning with Colonel <hi>Twiſleton</hi> in his March up <hi>Lochlomount,</hi>
+he knows and I hope will not deny, that before I went with
+him, he told me that one <hi>Wakmſha</hi> was with him, whether
+from the Earle of <hi>Glencairn</hi> himſelf or from General <hi>Monk</hi>
+concerning him, I do not remember; but he ſaid the Earle of
+<hi>Glencairnes</hi> buſineſs was as good as ended, and except I went
+with him, I could not but miſs General <hi>Monk,</hi> who had ſent
+for me, who was upon March, but that he was to meet with
+him, or hear certainly from him the day he was going, and all
+things did fall out accordingly, and being under a Capitula<g ref="char:EOLhyphen"/>tion,
+I did not know why I might not be in their company,
+being reſolved never to joyn with them in any action.</p>
+            <p>As for having a company of Foot under their pay, it is a
+miſtake; the Shire of <hi>Argyl</hi> truſted me with a Watch for the
+Shire of <hi>Argyl,</hi> which is moſt ordinarily in all places of the
+<hi>High-lands</hi> in broken times, I made it known to General <hi>Monk,</hi>
+the poor Country not being yet well planted after the bur<g ref="char:EOLhyphen"/>ning,
+could not be able to pay Ceſs and entertain the watch;
+he was pleaſed to promiſe once help for 100. men, but I hope
+his grace will not ſay that ever he required any engagement
+of them as Soldiers, nor ever imployed he them at all, but
+becauſe they did not oppoſe my Son, he would not continue
+his aſſiſtance to the Shire any longer, and ſpoke againſt me
+what his grace pleaſed for my diſſatifaction to the <hi>Engliſh.</hi>
+            </p>
+            <p>And for exchanging priſoners it is a miſtake, two men who
+had been in <hi>Roſeneth,</hi> whereof I have charge, come from thence,
+ſhortly after my boat in the twi-light, going up <hi>Clyde</hi> to ſee
+General <hi>Monk</hi> whom I had never ſeen before, I ſtaid for them,
+thinking it had been ſome poor men flying from abuſes, but
+<pb n="10" facs="tcp:115314:6"/>
+aboard, they alleadged they were men belonging to the Earl
+<hi>Glencairn,</hi> which I doubted; however I chid them for com<g ref="char:EOLhyphen"/>ing
+that way, and for abuſing the Country where they com,
+I told them I would only leave them at <hi>Dumbartan</hi> until<g ref="char:punc">▪</g> 
+               <hi>I</hi>
+returned from <hi>Kilſyth</hi> where General <hi>Monk</hi> was, and in the
+mean time, that they might not ſuffer any thing, deſired they
+might deliver any Arms or Moneys they had to a ſervant of
+mine, and all ſhould be ſafely returned, as it was done at my
+return; and that they might not go as by way of any ex<g ref="char:EOLhyphen"/>change,
+I would not ſuffer them <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o be enrolled by Captain
+<hi>Thomſon,</hi> who was exchangeing ſome priſoners at my return,
+but got them from him and ſent them back without any Ca<g ref="char:EOLhyphen"/>pitulation
+or exchange, though ſome men, I have forgotten
+who it was about that time, took out of <hi>Dumbarton</hi> ſome of
+my boat-men and returned them to me without any treaty
+or Capitulation for that effect, becauſe its ſaid the Earl of
+<hi>Glencarn</hi> and <hi>Middleton</hi> were commiſſioned by his Majeſty; I
+can ſay truly I never knew it, neither did any of their ho<g ref="char:EOLhyphen"/>nours,
+ſo much as by word, writ or meſſage intimate ſo much
+to me, If they had, I am confident I had ſatisfied them con<g ref="char:EOLhyphen"/>cerning
+my Car<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>age; <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> becauſe of this, though there was
+ſome hazzard in it to me, I did deſire to meet with his grace
+the Earl of <hi>Midleton</hi> in the Hills, but I got no anſwer, whether
+the meſſenger dealt faithfully I know not, but I believe his
+grace knew ſo much<g ref="char:punc">▪</g> and the neceſſary reaſons I gave for the
+unſeaſonableneſs of that ſti<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ning, all which I am ready yet to
+declare, which doubtles will ſatisfie any.</p>
+            <p>As for my taking upon me to bring off any, it is certain a
+miſtake, for the perſon mentioned <hi>John Mac-dowgal</hi> of <hi>Dow<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>olleith</hi>
+was not at all engaged in that ſervice, when the Earle
+of <hi>Glencarns</hi> and <hi>Midleton</hi> was in the fields.</p>
+            <div n="libel and dittay" type="answer">
+               <head>A Short Anſwer to the Libel and Dittay given in upon the
+28. day of Jannuary.</head>
+               <p>Before I ſay any thing particularly, I muſt difference all can
+be ſaid againſt me, firſt in theſe heads and that is before
+his Majeſties going out of <hi>Scotland,</hi> 1651. and ſince the <hi>Cromwel</hi>
+killed and took poſſeſſion, until his Majeſties happy return, in
+<hi>Anno,</hi> 1660.</p>
+               <p>
+                  <pb n="11" facs="tcp:115314:6"/>
+Theſe again which were acted before his Majeſty left <hi>Scot<g ref="char:EOLhyphen"/>land</hi>
+in <hi>Anno</hi> 1651. of Publique concernment. 2. Of private
+relating to particular perſons; Now for theſe things wherein
+I was an actor in relation to the publique concernments, I ne<g ref="char:EOLhyphen"/>ver
+acted without the approbation of Parliament &amp; General
+Aſſemblies ratified by his Majeſties Royal Father and himſelf.</p>
+               <p>And ſo the ſecond relating to particular perſons I never
+had acceſſion to any thing but what is warranted by Act of
+Parliament approven by his Majeſty and his Royal Predeceſ<g ref="char:EOLhyphen"/>ſors,
+for my acting, after his Majeſty left <hi>Scotland,</hi> 1651. until
+his Majeſties happy return 160<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. I was ſtill a priſoner on de<g ref="char:EOLhyphen"/>mand,
+and had no agreement nor Capitulation with the
+<hi>Engliſh</hi> after his Majeſty went, until <hi>Auguſt</hi> 1652. being long
+after the deputies had taken the tender, and were gone to
+<hi>London,</hi> and all others in Armes had Capitulate, and that all
+the reſt in <hi>Scotland</hi> were living peaceably at their own houſes
+except my kinſ-men and vaſſels in <hi>Argyle Shire,</hi> and the in<g ref="char:EOLhyphen"/>vaders
+in full poſſeſſion of the power and Government, and
+never did then Capitluate but out of neceſſity.</p>
+            </div>
+            <div n="articles" type="answer">
+               <head>An Anſwer to the particular Articles of the Libel.</head>
+               <p>1. The Commiſſioners for Conſervation of the peace<g ref="char:punc">▪</g> ſta<g ref="char:EOLhyphen"/>bliſhed
+by his Majeſtie in the Parliament 1641. were to look to
+the keeping of the Articles of the large treaty, whereof the
+endevours to procure an uniformity in Religion was one,
+and that <hi>Monttoſſe</hi> and others cenſured by Parliament
+ſhould not have acceſſe to his Majeſtie; And when theſe
+Commiſſioners found theſe things ſlighted and themſelves
+unequal for ſuch a burden, they met with the Privy
+Counſel<g ref="char:punc">▪</g> and they both with the Committee of Com<g ref="char:EOLhyphen"/>on
+burdens, and all of them together invited a Conven<g ref="char:EOLhyphen"/>tion
+of Eſtates, and what they did anent their applicati<g ref="char:EOLhyphen"/>on
+to his Majeſty and their deſire of ſetling differences be<g ref="char:EOLhyphen"/>twixt
+him and his people, and the League and Covenant is ſet
+down particularly in the Ratification of Parliament, 1644.
+which Parliament was called and convened by his Majeſties
+ſpecial authority, and which the ſaid Parliament was never
+diſclaimed but owned by his late Royal Majeſty, and is the
+foundation of all that followed even of the Parliament 1644.
+which is not only approven by his Majeſty, but by it his
+<pb n="12" facs="tcp:115314:7"/>
+Majeſty was called home and Crowned, and from it the laſt
+Committee which met (before this Parliament) had then
+power; ſo all that was done 164<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. is fully ratified by his Majeſty
+in Parliament.</p>
+               <p>2. For this it was done in publique Parliament where all
+the ſame members who ſat 1648. were preſent, and it is like<g ref="char:EOLhyphen"/>wiſe
+Ratified by his Majeſty, and it was conceived inevitable
+and beſt for his Majeſty as matters ſtood for the time being,
+the leaſt of two evils, and no man then imagined his Majeſties
+perſon nor Government in any hazzard.</p>
+               <p>3. No Proteſtation 1648. againſt any Act of Parliament, the
+Proteſtation it ſelf will witneſs, and it was before the Vote in
+Parliament, the difference then may be mentioned, for it was
+not as it is reported Commonly.</p>
+               <p>4. The defender was preſuing no forces, but coming to
+meet with the Committee 1648 after the defeat at <hi>Preſton,</hi> be<g ref="char:EOLhyphen"/>ing
+to conſult what was beſt, fearing no harm (being at
+<hi>Sterling</hi>) was invaded by <hi>George Monro</hi> and others, and ſome
+of his friends who were with him were killed, and others
+taken Priſoners.</p>
+               <p>5. There was no invitation, ſo far as the defender knows at
+all to <hi>Oliver Cromwel</hi> to come into <hi>Scotland,</hi> but on the con<g ref="char:EOLhyphen"/>trary,
+an earneſt endeavour was to keep him out by fairneſs,
+which could not be done by force, as the Acts of Committee &amp;
+treaty at <hi>Sterling</hi> can ſhew; And for <hi>Cromwels</hi> viſiting of
+<hi>Edinburgh</hi> and <hi>Edinbrough</hi> Caſtle, and of viſiting of him in it,
+the defender was no keepers of the ſaid Caſtle.</p>
+               <p>6. The defender acknowledges his Oath, &amp; he did not deſert
+either his Majeſty or his Army, but his ſtay behind his Majeſty
+in <hi>Sterling,</hi> was by his Majſties own allowance, becauſe of his
+wifes dangerous ſickneſs.</p>
+               <p>7. The Defenders Capitulation is not as Libelled, for he a<g ref="char:EOLhyphen"/>greed
+not to the Government, though he agreed to live peace<g ref="char:EOLhyphen"/>ably
+under the Parliament, of the Common-wealth of <hi>England,</hi>
+and mention not without King and Houſe of Lords, which he
+particularly refuſed, as the Paper which he was preſt to ſign-yet
+extant can ſhew; And never yeilded to the ſame Arti<g ref="char:EOLhyphen"/>cles
+which he ſigned, while he was a priſoner in the hand, and
+at ſuch a time when he could not make any eſcape, being hea<g ref="char:EOLhyphen"/>vily
+diſeaſed, as Dr. <hi>Cunningham</hi> and many others knows, who
+<pb n="13" facs="tcp:115314:7"/>
+were with him the ſame time, it being as in the Preface, in <hi>Au<g ref="char:EOLhyphen"/>guſt</hi>
+1652.</p>
+               <p>8. He was hardly able to come out of his Chamber when the
+Forces went out of <hi>Argyle</hi> ſhire, ſo he was not preſent, but I
+think hardly could 200. or 300 men ſtop the paſſing of two
+ſtrong Regiments of Foot, <hi>Overton</hi> and <hi>Read,</hi> and about 300
+Horſe commanded by <hi>Blackmone;</hi> when that year all his Hills
+and Bogs were as paſſible as the beſt High-wayes in that Coun<g ref="char:EOLhyphen"/>trey;
+and though the Defender had done it, it was but accord<g ref="char:EOLhyphen"/>ing
+to his Articles, which he could not then alter, and ſure no
+man can think it a crime.</p>
+               <p>9. The Defender did not accept any Commiſſion at that time,
+but refuſed to be in the Parliament, and was reſolved to for<g ref="char:EOLhyphen"/>bear
+ſtill, if neceſſ<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y had not compelled him afterward.</p>
+               <p>10. Did ſell ſome Cannon to <hi>Dean,</hi> when he told him he
+would not ſuffer him to keep them.</p>
+               <p>11. There is a miſtake, or call it what you will, in this Ar<g ref="char:EOLhyphen"/>ticle,
+for Col. <hi>Cobbet</hi> had ended his expedition when ſome of
+his ſhips were broken in <hi>Mull,</hi> one Company went by land and
+was not ſo much as challenged; And if the Defender had not
+given ſome way to go through the Country, it would have
+been accounted a breach of Articles, or if he had ſtaid upon free
+quarter in the Country, until he had ſent to <hi>Air</hi> for new pro<g ref="char:EOLhyphen"/>viſion,
+it would have ruined that part of the Country, for it
+was not ſo much want of ſhipping, as proviſion, made him
+go the Land way; And if I had betrayed him, I know no man
+could like a Traytor, howbeit they had liked the treachery,
+neither was <hi>Glencarn</hi> in the fields, nor the Earl of <hi>Middleton</hi> in
+<hi>Scotland</hi> at that time, nor had any man Commiſſion from his,
+Majeſty, for any thing he knows.</p>
+               <p>12. It is a general onely, ſo it cannot but have a general
+anſwer, that is, moſt falſe.</p>
+               <p>13. This Article is miſtaken, it was at proclaiming <hi>Oliver</hi> that
+I was as preſent, being occaſionally in Town, I was comman<g ref="char:EOLhyphen"/>ded
+by General <hi>Monck</hi> to wait on the Council, before I knew
+any intention of ſuch a Proclamation.</p>
+               <p>14. This Article is miſtaken alſo, I was deſired by <hi>Aberdeen</hi>-ſhire,
+to go for them to <hi>London</hi> in <hi>Richards</hi> time, I had refuſed
+likewiſe to go then, as I had in <hi>Olivers</hi> time, if I had not been
+driven by neceſſity to it out of reſpect to Religion, my native
+<pb n="14" facs="tcp:115314:8"/>
+Countrey, and to preſerve my ſelf from utter ruine, not with<g ref="char:EOLhyphen"/>out
+hopes but ſome<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hing might have been thought upon for
+his Majeſty, becauſe of the freedom of Elections in <hi>England,</hi>
+and as nothing was ſo much as mentioned at that time to his
+Majeſties diſadvantage; ſo the breach was there made, by which
+his Majeſty entered by the Lords bleſſing there-after, this I
+told to ſeverals was moſt probable when I come back to <hi>Scot<g ref="char:EOLhyphen"/>land,</hi>
+my endeavour to ſtop the Act of Union, until three things
+were firſt or joyntly done, ſh<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ws my reſolution for my Religi<g ref="char:EOLhyphen"/>on
+and Country; <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he three things were that our Laws and
+Judicatories might ſtand until they ſhould be altered by com<g ref="char:EOLhyphen"/>mon
+conſent. 2. That our Religion in Doctrine, Worſhip, and
+Diſcipline, might ſtand according to the Covenant. 3. That
+the Aſſeſſ: of <hi>Scotland</hi> might be made proportionable with <hi>En<g ref="char:EOLhyphen"/>gland.</hi>
+I did to ſeverals declare, the union could not be with<g ref="char:EOLhyphen"/>out
+theſe, and I was told likewiſe, that theſe would never be
+granted; my own neceſſity was to get off a moſt unjuſt decreat
+of great ſums laid upon me, by that called the Exchequer in
+<hi>Scotland,</hi> which was impoſſible for me to pay, this I ſhall make
+clearly to appear; And beſide all this, my going was not un<g ref="char:EOLhyphen"/>til
+the invaders had been paſt ſeven years in poſſeſſion by
+conſent, and that all the Lawyers did plead their authority
+and Ordinances as Laws.</p>
+               <p>15. It was well known I was hard preſt to accept that, and
+did it never<g ref="char:punc">▪</g> until the poor people in whom I was nearly con<g ref="char:EOLhyphen"/>cern'd,
+were in great difficulties for want of juſtice, and I
+would not then embrace it, but with a proteſtation, though it
+was long after the invaders poſſeſſion, and that there was no
+other viſible power nor authority.</p>
+               <p>16. I can ſay nothing to this, but it is a moſt falſe Calumny
+ſay it who will, and I hope when it comes to be particular in
+the circumſtances it will appear to be ſo, for ever when the
+<hi>Engliſh</hi> were at <hi>Inveraray,</hi> the Pariſh Miniſter Mr. <hi>Alexander
+Gordonn</hi> my own Chaplain, in his family prayed conſtantly
+for his Majeſty, and my ſelf in company did alwaies pray for
+ſuch whom we were engaged to, by either natural, civil, or
+Chriſtian bonds.</p>
+               <p>17. I can ſay to this as to the former, and that it cannot
+be true, becauſe that brake out onely upon the Earl of <hi>Calen<g ref="char:EOLhyphen"/>ders</hi>
+marching to the Well, whereof it is not ſaid he was privy,
+<pb n="15" facs="tcp:115314:8"/>
+and though it were true, all that buſineſſe is approven in Par<g ref="char:EOLhyphen"/>liament,
+ratified by his Majeſty.</p>
+               <p>18. This is a great miſtake, I had no ſuch precept, but I had
+by Act of Parliament of <hi>Scotland,</hi> the half of Exciſe of wines
+and Strong-waters in <hi>Scotland</hi> for payment to me, for a great
+ſum laid out by me for the <hi>Iriſh</hi> Army, and by my Articles I
+was to enjoy my liberty, and theſe debts due to me; and when
+I craved performance of my Articles 1657. the Protector
+would not let me have the Exciſe, but onely ſo much yearly
+out of it, until I were ſatisfied, wherein I had not what I
+ought, ſo far was it from favour.</p>
+               <p>19. I did never correſpond with <hi>Richard Cromwel,</hi> nor
+<hi>Fleetwood,</hi> except in order to my own affairs, nor with Sir
+<hi>Archbuld Johnſton,</hi> either to the prejudice of King or Country,
+nor to my memory at all after the Committee of Safety <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ee.</p>
+               <p>20 21 22 23 24 25. To all theſe anſwers, <hi>Arch Kinglas<g ref="char:punc">▪</g>
+                  </hi> had
+his Commiſſion as Colonel from the Parliament, or Committee
+and not from him, and if he purſued <hi>Lamond</hi> doubtleſſe it
+was as a Rebel at that time to the Eſtate of the Kingdom, ac<g ref="char:EOLhyphen"/>cording
+t<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Act and Declaration of Parliament, approved of
+by his Majeſty, and his Royal Father, and Predeceſſors; ſo what
+<hi>Ard. Kinlas</hi> or any other did to <hi>Lamond,</hi> let them anſwer for
+what they did unwarrantably, it cannot reflect on him, but
+he hopes they will clear themſelves.</p>
+               <p>26 The Defendor was is <hi>England</hi> when <hi>Lamond</hi> was brought
+out of his houſe, and knew nothing of the buſineſs, until he
+received letters ſhewing what had paſt, and that <hi>Lamond</hi> had
+refuſed to return <hi>Alexander Mac-Donald,</hi> according to his
+capitulation, chuſing rather to remain a priſoner with the
+defender, the paper it ſelf may be found if he deny, where<g ref="char:EOLhyphen"/>upon
+he was detained priſoner, having no ſecurity to give;
+and having ſo often ſworn and promiſed and after failed,
+which will be ſhewen under his hand, and having murthered
+ſo many people, men women and children ſeverals of them
+after quarter given, beſide the burning of many Gentlemen,
+his neighbours houſes, and deſtroying their goods and their
+lands, and going in to <hi>Alexander Mac-Dona<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d,</hi> notwithſtand<g ref="char:EOLhyphen"/>ing
+he was in ſervice againſt him with the defender, not ha<g ref="char:EOLhyphen"/>ving
+fairly exonered himſelf; This can be all clearly inſtru<g ref="char:EOLhyphen"/>cted,
+and if this was not cauſe to keep him a priſoner, let a<g ref="char:EOLhyphen"/>ny
+judge.</p>
+               <p>
+                  <pb n="16" facs="tcp:115314:9"/>
+27. He know not nor remembers not any ſuch things, ſo
+it is but forged againſt him.</p>
+               <p>28 He cauſed no ſuch thing, it was a thing done for his
+own entertainment, and the defender being to ſecure <hi>Lamond</hi>
+for ſome juſt debts due to himſelf, the Captain of <hi>Dunſtaffage</hi>
+deſired his bond likewiſe to be purſued in the defenders name,
+which the Geutleman himſelf can ſhew.</p>
+               <p>29. The Marqueſs is in poſſeſſion of none of their Lands to
+his knowledge, if he were, it is a legal civil proceſſe.</p>
+               <p>30 He never knew any ſuch thing.</p>
+               <p>31 32 33 34 35 36 37 38 39 40 41 42 43 44 To all
+theſe let every man anſwer as he is concerned, as he hopes
+they will clear ſo, but this he muſt ſay for himſelf and his de<g ref="char:EOLhyphen"/>pute,
+That it cannot be ſaid, they murthered any of theſe
+men with their own hands, neither did they judge any man
+to die by the hand of Juſtice, but ſuch who were notoriouſly
+guilty according to ſtanding Laws, and no man can juſtly ſay
+any man was ever proceſſed before them who had received
+any Articles, though it was never conceived by any Judica<g ref="char:EOLhyphen"/>tory
+in <hi>Scotland</hi> that any man taking a Rebel could pardon
+him, except the perſon doer of it had particular warrant for
+that effect, otherwiſe the Committee after <hi>Philliphauge</hi> had
+been much to blame for ordaining ſo many to be proceſſed,
+at which Committee were the ſentencing of ſuch who died
+at <hi>Glaſgow</hi> ſhortly thereafter, the Defender was not preſent.</p>
+               <p>This Anſwer was drawn upon the firſt receit of the Libel, but a
+more full anſwer may be expected after he hath conſulted with his
+Advocate.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
